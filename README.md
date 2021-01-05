@@ -7,7 +7,8 @@ How to use this template:
 1. Make sure you have created a new organization first following
    https://github.com/uit-no/github-course-guide#github-organization.
 2. Now you can generate a website repository from this template:
-   https://github.com/uit-no/github-course-template/generate
+   https://github.com/uit-no/github-course-template/generate. 
+   Remember to specify that the repository should be created in the new organization.
 3. For the "Owner" select the newly created organization.
    For the "Repository name" use (organization name).github.io, e.g.:
    "uit-inf-2202-f16.github.io". Select "Public". Leave "Include all branches" unchecked,
