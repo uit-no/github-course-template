@@ -13,8 +13,10 @@ How to use this template:
    For the "Repository name" use (organization name).github.io, e.g.:
    "uit-inf-2202-f16.github.io". Select "Public". Leave "Include all branches" unchecked,
    click "Create repository from template".
-4. In the newly created repository adjust information in `_config.yml`.
-5. In the newly created repository modify the syllabus in the `index.md` file.
+4. In the newly created repository click on "Settings" -> "Pages", and under "Branch", change "None" to
+   "master" and click "Save".
+5. In the newly created repository adjust information in `_config.yml`.
+6. In the newly created repository modify the syllabus in the `index.md` file.
 
 Your course website will automatically appear at https://(organization name).github.io/.
 
